@@ -1,6 +1,6 @@
 # Amer Riaz
 ### Hi there 👋
-
+- 🌱 I’m currently learning Web Development at Coder Academy!
 <!--
 **amer-riaz/amer-riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
